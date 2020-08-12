@@ -1,7 +1,7 @@
 Fetch Pro
 =======
 
-A Open Source Browser Based Bitcoin Wallet. Version 1.6 beta, forked by Fetch
+A Open Source Browser Based Bitcoin Wallet. Version 1.2, forked by Fetch
 
 Live version available at http://ver2.fetchpro.io/ 
 
