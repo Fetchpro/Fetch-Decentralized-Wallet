@@ -3,7 +3,7 @@ Fetch Pro
 
 A Open Source Browser Based Bitcoin Wallet.(Coinb.in ver 1.6), forked by Fetch
 
-Live version available at http://ver2.fetchpro.io/ 
+Live version available at http://ver2.fetchasia.com/ 
 
 
 
